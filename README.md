@@ -19,10 +19,6 @@ Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGP
 
 * Search engines for images generated with Stable Diffusion: [Lexica](https://lexica.art/), [Stable Diffusion Web](https://stablediffusionweb.com/prompts)
 
-### Dall-e
-
-
-
 
 ## Text
 
