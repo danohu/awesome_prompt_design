@@ -6,9 +6,9 @@ Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGP
 
 * [img2prompt](https://replicate.com/methexis-inc/img2prompt): turn any image into a text prompt
 * [prompt parrot](https://github.com/kyrick/cog-prompt-parrot): generate variations on a text prompt
-* [Artist style cheatsheet](https://asc.fooo.ooo/): skim through for styles you want to copy
 * [types of film](https://www.lomography.com/films) to guide photography styles in prompting
 * [Prompt Combinator](https://wainwrightmark.github.io/prompt-combinator/): systematically generate all possible permutations from a group of elements
+* Artist styles: which artists can you imitate in [Dall-E](https://docs.google.com/spreadsheets/d/1d-N9BZ80qw3v2_3gWctYkRVuoMx6zs_We6c3h_yACJY/edit#gid=0) or [Midjourney](https://docs.google.com/spreadsheets/d/1d-N9BZ80qw3v2_3gWctYkRVuoMx6zs_We6c3h_yACJY/edit#gid=0)? Or check this huge [compilation of artist styles](https://asc.fooo.ooo/) for inspiration
 
 ### Midjourney
 
@@ -21,7 +21,7 @@ Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGP
 
 ### Dall-e
 
-* [Which artist styles does Dall-E  know?](https://docs.google.com/spreadsheets/d/1d-N9BZ80qw3v2_3gWctYkRVuoMx6zs_We6c3h_yACJY/edit#gid=0)
+
 
 
 ## Text
@@ -63,7 +63,7 @@ This section is tilted towards those who share tips on their methods. I'm not in
 
 ## Less Highlighted Resources
 
-Some of these are great but slightly off-topic incomplete, some are inactive, some duplicate resources elsewhere on this list:
+These links didn't quite make the cut. Some are fantastic but a bit off-topic. Some are less awesome than very similar resources I've linked above. Some are inactive, or not yet finished, or only moderately awesome.
 
 * Some of the [images used to train Stable Diffusion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls)
 * [Course](https://learnprompting.org/docs/category/-basics): 'learn prompting'. 
@@ -71,4 +71,5 @@ Some of these are great but slightly off-topic incomplete, some are inactive, so
 * [Stable Dififusion prompting cheatsheet](https://moritz.pm/posts/parameters)
 * [things to try in midjourney v4](https://old.reddit.com/r/midjourney/comments/yoobjj/super_cool_things_to_try_in_v4_incl_prompts/)
 * Twitter lists: [women in generative art](https://twitter.com/i/lists/1458840272046071825), [promptopia spellcasters](https://twitter.com/i/lists/1577672264430100480)
+* [AI Weirdness blog](https://www.aiweirdness.com/)
 
