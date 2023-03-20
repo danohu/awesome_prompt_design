@@ -38,6 +38,13 @@ Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGP
 * [Microsoft guide](https://microsoft.github.io/prompt-engineering/) to writing prompts for copilot and other codex-based tools
 * [Learning Rust with ChatGPT, Copilot and Advent of Code](https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/) (Simon Willison)
 
+
+### Libraries
+
+- [Langchain](https://langchain.readthedocs.io/en/latest/index.html) -- python library to manage the plumbing work around LLMs. For instance, use it to summarize documents you have and include them within your prompt
+- [Lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - "Write LLM prompts with jinja templates, compose them in python as functions, and call them directly or use them as a webservice"
+- [Llamaindex](https://github.com/jerryjliu/llama_index): link your data to LLMs, using data connectors and indices
+
 ##  Communities
 
 * Reddit: [Prompt Design](https://www.reddit.com/r/PromptDesign/). 
@@ -68,4 +75,6 @@ These links didn't quite make the cut. Some are fantastic but a bit off-topic. S
 * [things to try in midjourney v4](https://old.reddit.com/r/midjourney/comments/yoobjj/super_cool_things_to_try_in_v4_incl_prompts/)
 * Twitter lists: [women in generative art](https://twitter.com/i/lists/1458840272046071825), [promptopia spellcasters](https://twitter.com/i/lists/1577672264430100480)
 * [AI Weirdness blog](https://www.aiweirdness.com/)
+* Startups:
+	* [Humata](https://www.humata.ai/) - run GPT over your own documents
 
