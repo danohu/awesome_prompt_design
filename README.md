@@ -1,6 +1,10 @@
 # Awesome Prompt Design
 Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGPT, etc
 
+To keep the main list on-topic, I've shuffled some resources onto separate pages:
+- [Slightly less awesome items](semi-awesomeness.md)
+- [General AI Awesomeness](general-ai-awesomeness.md)
+
 
 ## Images
 
@@ -9,6 +13,7 @@ Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGP
 * [types of film](https://www.lomography.com/films) to guide photography styles in prompting
 * [Prompt Combinator](https://wainwrightmark.github.io/prompt-combinator/): systematically generate all possible permutations from a group of elements
 * Artist styles: which artists can you imitate in [Dall-E](https://docs.google.com/spreadsheets/d/1d-N9BZ80qw3v2_3gWctYkRVuoMx6zs_We6c3h_yACJY/edit#gid=0) or [Midjourney](https://docs.google.com/spreadsheets/d/1d-N9BZ80qw3v2_3gWctYkRVuoMx6zs_We6c3h_yACJY/edit#gid=0)? Or check this huge [compilation of artist styles](https://asc.fooo.ooo/) for inspiration
+* [Generate architectural images](https://twitter.com/nickfloats/status/1635116672054079488), using ChatGPT to prompt midjourney
 
 ### Midjourney
 
@@ -22,10 +27,14 @@ Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGP
 
 ## Text
 
+### General
+
+- [Language learning prompts](https://github.com/squidgyai/squidgy-prompts) from the _Squidgies_ app (but usable beyond it)
 
 ###  GPT
 * [Getting tabular data from unstructured text with GPT](https://robertorocha.info/getting-tabular-data-from-unstructured-text-with-gpt-3-an-ongoing-experiment/)
 * [The art to start](https://medium.com/merzazine/the-art-to-start-designing-prompts-for-gpt-3-introduction-89848c208007):  designing prompts for GPT
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main)
 
 ### ChatGPT
 * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -41,7 +50,10 @@ Curated list of resources about writing prompts for AI: Stable Diffusion, ChatGP
 
 ### Libraries
 
+see also [General AI Awesomeness](general-ai-awesomeness.md) for more tools
+
 - [Langchain](https://langchain.readthedocs.io/en/latest/index.html) -- python library to manage the plumbing work around LLMs. For instance, use it to summarize documents you have and include them within your prompt
+- [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel/tree/python-preview) - "a lightweight SDK enabling integration of AI Large Language Models (LLMs) with conventional programming languages"
 - [Lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - "Write LLM prompts with jinja templates, compose them in python as functions, and call them directly or use them as a webservice"
 - [Llamaindex](https://github.com/jerryjliu/llama_index): link your data to LLMs, using data connectors and indices
 
@@ -61,20 +73,8 @@ This section is tilted towards those who share tips on their methods. I'm not in
 
 * [Awesome Generative Art](https://github.com/kosmos/awesome-generative-art)
 * Pinboard searches: [prompts](https://pinboard.in/t:prompts), [prompt design](https://pinboard.in/t:prompt%20design)
+* A [Trello board](https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers) of AI prompts
 
 
 
-## Less Highlighted Resources
-
-These links didn't quite make the cut. Some are fantastic but a bit off-topic. Some are less awesome than very similar resources I've linked above. Some are inactive, or not yet finished, or only moderately awesome.
-
-* Some of the [images used to train Stable Diffusion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls)
-* [Course](https://learnprompting.org/docs/category/-basics): 'learn prompting'. 
-* Reddit [Prompt Engineers](https://www.reddit.com/r/promptengineers/) -- dead except for junk
-* [Stable Dififusion prompting cheatsheet](https://moritz.pm/posts/parameters)
-* [things to try in midjourney v4](https://old.reddit.com/r/midjourney/comments/yoobjj/super_cool_things_to_try_in_v4_incl_prompts/)
-* Twitter lists: [women in generative art](https://twitter.com/i/lists/1458840272046071825), [promptopia spellcasters](https://twitter.com/i/lists/1577672264430100480)
-* [AI Weirdness blog](https://www.aiweirdness.com/)
-* Startups:
-	* [Humata](https://www.humata.ai/) - run GPT over your own documents
 
